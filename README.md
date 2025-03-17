@@ -1,4 +1,4 @@
-Hi 👋 My name is Hosinger Simon
+Hi 👋 My name is InsectLotus
 ===============================
 
 Aspiring Application Developer
