@@ -7,7 +7,7 @@ Aspiring Application Developer
 Hello, I have started learning C#, Python, Java, and HTML so far, and I am also willing to learn more to expand my opportunities. For example, I plan to further educate myself in the field of Cyber Security.
 
 * 🌍  I'm based in Germany
-* ✉️  You can contact me at [hosingersimon0@gmail.com](mailto:hosingersimon0@gmail.com)
+* ✉️  You can contact me at [insectlotus9721@gmail.com](mailto:insectlotus9721@gmail.com)
 * 🧠  I'm learning To Code in C# and on my own Python and Java
 
 ### Skills
